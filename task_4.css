@@ -1,0 +1,37 @@
+header>div,p{
+    color: palegoldenrod;
+}
+h1 {
+  color: greenyellow;
+}
+
+main,main>button{
+    color: greenyellow;
+  }
+  
+
+  h2{
+    color: palegoldenrod;
+  }
+  b{
+    color: greenyellow;
+  }
+
+
+  body{
+    color: greenyellow;
+}
+
+
+
+
+/* 
+/* button {
+  color: greenyellow;
+}
+ */
+/*  main
+ {
+    color: greenyellow;
+  } */ 
+  
