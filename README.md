@@ -24,12 +24,12 @@ Open [task_3.html](./task_3.html)
 
 Answer the following questions directly here in the README:
 
-- Why is the `<span>` element text bold?
-- Why is the `<h2>` and `<p>` element text red?
-- Why is the `<span>` element text not red?
-- Why don't `<h2>`, `<p>` and `<span>` each have a border?
-- If you uncomment line 17, why does the `<span>` stay blue?
-- If you uncomment line 18, why does the `<span>` turn green?
+- Why is the `<span>` element text bold?in style font-width is Bold
+- Why is the `<h2>` and `<p>` element text red?in style Main is target and has Red color
+- Why is the `<span>` element text not red?Span targeted with Blue Color for Font color.
+- Why don't `<h2>`, `<p>` and `<span>` each have a border?Just one Border applied for Main so they all have the same border.
+- If you uncomment line 17, why does the `<span>` stay blue?becouse of aspacifity.Blue which written down after Green has bigger spaifity.
+- If you uncomment line 18, why does the `<span>` turn green?!important has periority ovr all other commands.
 
 ### Task 4
 
